@@ -1,6 +1,6 @@
 <h1 align="center">BLACK-net⚜️<br></h1>
 <p align="center">
-<img src="360_F_386078374_WDOvxzHmUCsg0h3AufqbhtuWkBKz8XpU.jpg
+<img src="360_F_386078374_WDOvxzHmUCsg0h3AufqbhtuWkBKz8XpU.img
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
