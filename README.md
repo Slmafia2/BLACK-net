@@ -1,6 +1,7 @@
 <h1 align="center">BLACK-net⚜️<br></h1>
-<p align="center">
-<jpg src=![360_F_386078374_WDOvxzHmUCsg0h3AufqbhtuWkBKz8XpU](https://user-images.githubusercontent.com/117567493/200175809-8f989a67-cb76-449b-b145-91cac2f806e0.jpg)
+<jpg src=![360_F_386078374_WDOvxzHmUCsg0h3AufqbhtuWkBKz8XpU](https://user-images.githubusercontent.com/117567493/200176001-a92ec197-6f91-4116-b54e-f7db94d02ed5.jpg)
+
+<p align="center
 
 
 
